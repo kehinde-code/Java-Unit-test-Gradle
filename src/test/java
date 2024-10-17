@@ -1,0 +1,10 @@
+src/test/java/
+└── com
+    └── example
+        └── project
+            ├── util
+            │   └── StringUtilsTest.java
+            ├── service
+            │   └── UserServiceIntegrationTest.java
+            └── model
+                └── UserTest.java
